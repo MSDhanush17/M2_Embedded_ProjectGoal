@@ -20,8 +20,7 @@ Folder             | Description
 
 # Batches
 ![code quality score](https://www.code-inspector.com/project/28800/score/svg) 
-![code Grade](!(https://app.codacy.com/project/badge/Grade/381a72e5bbf64c83abfc3291bbe7a749)](https://www.codacy.com/gh/MSDhanush17/M2_Embedded_ProjectGoal/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MSDhanush17/M2_Embedded_ProjectGoal&amp;utm_campaign=Badge_Grade)) 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/381a72e5bbf64c83abfc3291bbe7a749)](https://www.codacy.com/gh/MSDhanush17/M2_Embedded_ProjectGoal/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MSDhanush17/M2_Embedded_ProjectGoal&amp;utm_campaign=Badge_Grade)
 ## Details of contributer
 
 SF ID. |  Name   |    Features    |  Issuess Raised |     Issues Resolved
